@@ -1,1 +1,1 @@
-# ggalax-token
+# galaxi-token
