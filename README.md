@@ -1,0 +1,1 @@
+# ggalax-token
